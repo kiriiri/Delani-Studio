@@ -9,12 +9,32 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#delani-logo {
+  width:100%;
+  height:600px;
+  background-image:url('../images/delani.jpg');
+  background-size:cover;
+  border:1px solid black;
+}
+#services {
+  width:100%;
+  height:400px;
+  background-image: url('../images/sevices.jpg');
+  background:cover;
+  border:1px solid black;
+}
+#contact-us {
+  width:100%;
+  height:600px;
+  background-image: url('../images/contact.jpg');
+  background:cover;
+  border:1px solid black;
+}
 
-/** ABOUT-US **/
+
 .center {
   text-align: center;
 }
-/**CONTACT US **/
 #work {
   background: white;
   padding: 8% 4%;
