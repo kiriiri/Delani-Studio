@@ -25,7 +25,7 @@
 }
 #contact-us {
   width:100%;
-  height:600px;
+  height:500px;
   background-image: url('../images/contact.jpg');
   background:cover;
   border:1px solid black;
@@ -74,7 +74,6 @@ h4 {
 h6 {
   text-align: center;
 }
-
 #work {
   background: white;
   padding: 8% 4%;
@@ -113,18 +112,30 @@ h6 {
 }
 h2 {
   text-align:center;
-  color:black;
+  color:white;
 }
-/* SOCIALS */
-#socials {
-  position: absolute;
-  text-align: center;
-  bottom: 10px;
-  left: 0;
-  width: 100%;
+.form-control {
+  background-color: transparent;
+}
+#name {
+  background-color: transparent;
+}
+#e-mail {
+  background-color: transparent;
+}
+#message {
+  background-color: transparent;
+}
+::placeholder {
+  color:whitesmoke;
+}
 
+#social {
+  padding-top: 3%;
+  text-align: center;
+  padding-bottom: 3%;
 }
-/* FOOTER */
+
 #footer {
   text-align:center;
   font-family: Open Sans Condensed;
