@@ -30,9 +30,11 @@
   background:cover;
   border:1px solid black;
 }
-
-
-.center {
+p.center {
+  text-align: center;
+  color:black;
+}
+h4 {
   text-align: center;
 }
 #work {
