@@ -114,6 +114,10 @@ h2 {
   text-align:center;
   color:white;
 }
+h3 {
+  text-align: center;
+  color:black;
+}
 .form-control {
   background-color: transparent;
 }
@@ -127,7 +131,7 @@ h2 {
   background-color: transparent;
 }
 ::placeholder {
-  color:whitesmoke;
+  color:white;
 }
 
 #social {
