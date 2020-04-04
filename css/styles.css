@@ -3,7 +3,7 @@
     text-align: center;
     color: white;
 }
-  .centered {
+.centered {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -37,6 +37,44 @@ p.center {
 h4 {
   text-align: center;
 }
+.design-description {
+  display:none;
+}
+.development-description {
+  display:none;
+}
+.product-description {
+  display:none;
+}
+.clickable {
+  cursor: pointer;
+  color:blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable1 {
+  cursor:pointer;
+  color:blue;
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color:blue;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
+.design-description, .development-description, .product-description {
+  text-align:center
+}
+h6 {
+  text-align: center;
+}
+
 #work {
   background: white;
   padding: 8% 4%;
@@ -77,7 +115,7 @@ h2 {
   text-align:center;
   color:black;
 }
-/** SOCIALS **/
+/* SOCIALS */
 #socials {
   position: absolute;
   text-align: center;
@@ -86,7 +124,7 @@ h2 {
   width: 100%;
 
 }
-/** FOOTER **/
+/* FOOTER */
 #footer {
   text-align:center;
   font-family: Open Sans Condensed;
