@@ -103,12 +103,18 @@ h4 {
   height:100%;
   position: relative;
 }
+h2 {
+  text-align:center;
+  color:black;
+}
 /** SOCIALS **/
-.centered {
+#socials {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  text-align: center;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+
 }
 /** FOOTER **/
 #footer {
