@@ -62,46 +62,16 @@ h4 {
   background: #dedede;
   position: relative;
 }
-.work1 {
+#work1 {
   width:100%;
   height:100%;
   position: absolute;;
   left:0;
 }
-.work2 {
+#work2, #work3, #work4, #work5, #work6, #work7, #work8 {
   width:100%;
   height:100%;
   position: relative;;
-}
-.work3 {
-  width:100%;
-  height:100%;
-  position: relative;
-}
-.work4 {
-  width:100%;
-  height:100%;
-  position: relative;
-}
-.work5 {
-  width:100%;
-  height:100%;
-  position: relative;
-}
-.work6 {
-  width:100%;
-  height:100%;
-  position: relative;
-}
-.work7 {
-  width:100%;
-  height:100%;
-  position: relative;
-}
-.work8 {
-  width:100%;
-  height:100%;
-  position: relative;
 }
 h2 {
   text-align:center;
