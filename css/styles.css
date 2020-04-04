@@ -43,48 +43,53 @@
 .work1 {
   width:100%;
   height:100%;
-  position:absolute;
+  position: absolute;;
   left:0;
 }
 .work2 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;;
 }
 .work3 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;
 }
 .work4 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;
 }
 .work5 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;
 }
 .work6 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;
 }
 .work7 {
   width:100%;
   height:100%;
-  position: absolute;
-  left:0;
+  position: relative;
 }
 .work8 {
   width:100%;
   height:100%;
+  position: relative;
+}
+/** SOCIALS **/
+.centered {
   position: absolute;
-  left:0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/** FOOTER **/
+#footer {
+  text-align:center;
+  font-family: Open Sans Condensed;
 }
