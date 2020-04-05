@@ -99,21 +99,6 @@ h6 {
   background: #dedede;
   position: relative;
 }
-.project-description {
-  right:0;
-  left:0;
-  bottom:0;
-  padding:16px;
-  background:rgba(red, green, blue, alpha);
-  position: absolute;
-}
-.project-description * {
-  font-size:small;
-  color:black;
-  margin:0;
-  padding:0;
-}
-
 #work1 {
   width:100%;
   height:100%;
@@ -134,15 +119,6 @@ h3 {
   color:black;
 }
 .form-control {
-  background-color: transparent;
-}
-#name {
-  background-color: transparent;
-}
-#e-mail {
-  background-color: transparent;
-}
-#message {
   background-color: transparent;
 }
 ::placeholder {

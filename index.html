@@ -156,19 +156,21 @@
                     <div class="form-group col-md-2"></div>
                     <div class="form-group col-md-4">
                         <label for="name">Name</label>
-                        <input type="text" class="form-control" id="name" cols="1" rows="12" placeholder="Name...">
+                        <input type="text" class="form-control" id="name" cols="1" rows="12" placeholder="Name..."><div id="error"></div>
                     </div>
                     <div class="form-group col-md-4">
                         <label for="e-mail">E-mail</label>
-                        <input type="email" class="form-control" id="e-mail" cols="1" rows="12" placeholder="E-mail..">
+                        <input type="email" class="form-control" id="email" cols="1" rows="12" placeholder="E-mail.."><div id="error1"></div>
                     </div>
                     <div class="col-md-2"></div>
                 </div>
                     <div class="form-group">
                         <label for="message"></label>
-                        <textarea name="message" class="form-control" id="message" cols="10" rows="10" placeholder="Your message here..."></textarea>
+                        <textarea name="message" class="form-control" id="message" cols="10" rows="10" placeholder="Your message here..."></textarea><div id="error2"></div>
                     </div>
-                    <input type="submit" id="submit">
+                    <div class="button">
+                        <button type="submit" onclick = "submitData(); return false;" name="submit" id="submit" value="Submit"><b>Send Message</b></button>
+                    </div>
             </form>
         </div>
         <div id="social-icons">
