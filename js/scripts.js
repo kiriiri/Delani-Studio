@@ -31,7 +31,7 @@ function submitData() {
     }else if(message==="") {
         document.getElementById("message").innerText="Enter your message please"
         document.getElementById("error2").style.color="red"
-    }else {
+    }else{
         document.getElementById("contact-us").innerHTML="Thanks for the feedback"
     }
 }
