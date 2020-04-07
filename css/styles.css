@@ -69,7 +69,8 @@ h4 {
   text-decoration: underline;
 }
 .design-description, .development-description, .product-description {
-  text-align:center
+  text-align:center;
+  font-family: cursive;
 }
 
 #work {
@@ -104,7 +105,7 @@ h4 {
 }
 #overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8 {
   display: none;
-  color: whitesmoke;
+  color: white;
   width: 96%;
   height: 96%;
   top: 2%;
@@ -117,7 +118,7 @@ h4 {
 }
 .Overlay
 {
-  border: 4px solid whitesmoke;
+  border: 4px solid white;
   padding-top: 5%;
   padding-right: 5%;
   padding-bottom: 5%;
@@ -153,5 +154,5 @@ h3 {
 
 #footer {
   text-align:center;
-  font-family: Open Sans Condensed;
+  font-family: sans-serif;
 }
