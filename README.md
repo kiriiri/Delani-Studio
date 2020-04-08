@@ -28,7 +28,7 @@ While creating this website I used HTML,CSS,Javascript and jQuery.
 ## Support and contact details
 
 If you come across any issue while using this website,please feel free to contact me so that we can find a way to solve it.
-Here's my E-mail address if you have any enquires.
+Here's my E-mail address if you have any enquires:[Wkiriiri@gmail.com](https://mail.google.com/mail/mu/mp/353/#tl/priority/%5Esmartlabel_person)
 
 ### [License](https://github.com/kiriiri/Delani-Studio/blob/master/LICENSE)
 
